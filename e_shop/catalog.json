@@ -1,0 +1,67 @@
+
+[
+    {
+      "id": "1",
+      "name": "Футболка",
+      "img":"https://images.ua.prom.st/3328256476_w200_h200_futbolka-muzhskaya-atlantic.jpg",
+      "description": "Мужская футболка",
+      "price": "1000",
+      "category":"man"
+    },
+    {
+        "id": "2",
+        "name": "Рубашка",
+        "img":"http://g02.a.alicdn.com/kf/HTB1uevpJXXXXXaGXVXXq6xXFXXXm/New-Solid-tuxedo-dobby-Black-dress-french-cuff-shirt-men-XS-XXXL-MZ-1128.jpg",
+        "description": "Мужская рубашка",
+        "price": "3000",
+        "category":"man"
+      },
+      {
+        "id": "3",
+        "name": "Шорты",
+        "img":"https://privetatlet.ru/pictures/product/middle/55854_middle.png",
+        "description": "Мужские шорты",
+        "price": "4000",
+        "category":"man"
+      },
+      {
+        "id": "4",
+        "name": "Блузка",
+        "img":"https://images-na.ssl-images-amazon.com/images/I/51o4VUUxBXL._AC_UX385_.jpg",
+        "description": "Женская блузка",
+        "price": "10000",
+        "category":"woman"
+      },
+      {
+        "id": "5",
+        "name": "Юбка",
+        "img":"https://idealprice.cdnvideo.ru/pic/1/detail/2311585.jpg",
+        "description": "Женская юбка",
+        "price": "10000",
+        "category":"woman"
+      },
+      {
+        "id": "6",
+        "name": "Пиджак",
+        "img":"https://shop4big.ru/image/cache/catalog/pidzhakivegener/kenny_2s_6553_17_1-460x460.jpg",
+        "description": "Мужской пиджак",
+        "price": "6000",
+        "category":"man"
+      },
+      {
+        "id": "7",
+        "name": "Платье",
+        "img":"https://images.ru.prom.st/311083735_w640_h640_sarafan-na-tonkih.jpg",
+        "description": "Женское платье",
+        "price": "7000",
+        "category":"woman"
+      },
+      {
+        "id": "8",
+        "name": "Брюки",
+        "img":"https://lexmer.ru/upload/iblock/c65/btsbytyfu43qwxwjkj21h31t2m10jsvy.jpg",
+        "description": "Мужские брюки",
+        "price": "5000",
+        "category":"man"
+      }
+  ]
